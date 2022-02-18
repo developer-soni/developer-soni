@@ -9,7 +9,7 @@
 <img src="banner.gif" alt="Welcome!" width="100%"/>
 <br/>
 
-## 🛠  Technologies and Tools I'm familiar with
+## 🛠  Technologies and Tools I'm experienced in
 
 
 ### Languages :
