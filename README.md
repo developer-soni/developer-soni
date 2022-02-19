@@ -73,6 +73,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=&logoColor=#FF7139)](https://www.devsoni.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-soni/) 
 [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/DevSoni1999) 
+[![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](./resume.pdf)
+
 
 <br/>
 <br/>
