@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 ### My name is Dev Soni. I am a Front End Developer based in San Francisco, California. 🌉
-[![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](./resume.pdf)
+[![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://developer-soni.github.io/developer-soni/)
 
 <br/>
 
