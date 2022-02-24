@@ -86,3 +86,4 @@
 ### ❤️ Made with
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://api.visitorbadge.io/api/VisitorHit?user=developer-sonif&repo=github-visitors-badge&countColor=%237B1E7A)
