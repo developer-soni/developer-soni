@@ -3,7 +3,7 @@
 <!-- Introduction -->
 ### My name is Dev Soni. I am a Front End Developer based in San Francisco, California. 🌉
 [![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://developer-soni.github.io/developer-soni/)
-
+[![LeetCode](https://img.shields.io/badge/100DaysOfCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.linkedin.com/in/developer-soni)
 <br/>
 
 <!-- Quote -->
@@ -77,7 +77,8 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer1soni@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=&logoColor=#FF7139)](https://www.devsoni.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-soni/) 
-[![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/DevSoni1999) 
+[![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/DevSoni1999)
+![Twitter](https://img.shields.io/badge/devsoni1999-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 
 <br/>
