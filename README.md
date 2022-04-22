@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 ### I'm Dev Soni. I'm a Software Engineer based in San Francisco, California. 🌉
-### I specialize in Frontend and working with web technologies.
+### I specialize in Frontend, React.js, and working with web technologies.
 ### I am paving my way towards the Web3 World and its required tech stack.
 [![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://developer-soni.github.io/developer-soni/)
 [![Website](https://img.shields.io/badge/My_Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.devsoni.com)
