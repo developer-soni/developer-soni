@@ -1,11 +1,10 @@
 # Hello ! 👋
 
-<!-- Introduction -->
-### I'm Dev Soni. 
-### I'm a Software Engineer based in San Francisco, California. 🌉
-### I recently graduted from SFSU with a Bachelors of Science in Computer Science.
-### I specialize in Frontend tools, React.js, and working with web technologies.
-### I am paving my way towards the Web3 World and its required tech stack.
+<!-- Introduction --> 
+### I'm a Software Engineer with a passion for solving complex problems and building innovative solutions. Based in San Francisco, California. 🌉
+### With a strong foundation in computer science (specializing in web development technologies) and a track record of delivering high-quality websites and software on time, I excel at collaborating with cross-functional teams to drive projects from concept to launch. 
+### 👨‍💻 I am always looking to learn and stay up-to-date with the latest industry trends and techniques. 
+### 🕹️ In my free time, I enjoy customizing my car, photography, skateboarding, cinematic videography, and exploring electrical components.
 
 ## 👨‍💻 Check this out 
 
