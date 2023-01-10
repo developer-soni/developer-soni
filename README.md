@@ -1,9 +1,7 @@
 # Hello ! 👋
 
 <!-- Introduction --> 
-### I'm a Software Engineer with a passion for solving complex problems and building innovative solutions. Based in San Francisco, California. 🌉
-
-### With a strong foundation in computer science (specializing in web development technologies) and a track record of delivering high-quality websites and software on time, I excel at collaborating with cross-functional teams to drive projects from concept to launch.
+### I'm a Software Engineer with a passion for solving complex problems and building innovative solutions. Based in San Francisco, California. 🌉 With a strong foundation in computer science (specializing in web development technologies) and a track record of delivering high-quality websites and software on time, I excel at collaborating with cross-functional teams to drive projects from concept to launch.
 
 ### 👨‍💻 I am always looking to learn and stay up-to-date with the latest industry trends and techniques. 
 
