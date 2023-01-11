@@ -11,16 +11,14 @@
 
 [![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://developer-soni.github.io/developer-soni/)
 [![Website](https://img.shields.io/badge/My_Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.devsoni.com)
-[![LeetCode](https://img.shields.io/badge/100DaysOfCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://twitter.com/devsoni1999)
 
+[![LeetCode](https://img.shields.io/badge/100DaysOfCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://twitter.com/devsoni1999)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer1soni@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-soni/) 
 [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/DevSoni1999)
-[![Twitter](https://img.shields.io/badge/devsoni1999-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devsoni1999)
 
 <!-- Quote -->
-<img src="banner.gif" alt="Welcome!" width="100%"/>
-<br/>
+<!-- <img src="banner.gif" alt="Welcome!" width="100%"/> -->
 
 ## 🛠  Technologies and Tools I work with
 
@@ -46,7 +44,7 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
 
-### Database & Platforms :
+### Database & Hosting :
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +56,12 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github_Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
+### Content Management Systems (CMS) :
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
 
 ### Design & Media :
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -66,8 +69,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
 
 ### Project Management :
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -95,4 +96,5 @@
 ### ❤️ Made with
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br/>
 ![](https://api.visitorbadge.io/api/VisitorHit?user=developer-sonif&repo=github-visitors-badge&countColor=%237B1E7A)
