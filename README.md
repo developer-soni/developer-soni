@@ -10,7 +10,7 @@
 ## 👨‍💻 Check this out 
 
 [![Resume](https://img.shields.io/badge/my_resume-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://developer-soni.github.io/developer-soni/)
-[![Website](https://img.shields.io/badge/My_Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.devsoni.com)
+[![Website](https://img.shields.io/badge/My_Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://developer-soni.github.io/Portfolio_Website/)
 
 [![LeetCode](https://img.shields.io/badge/100DaysOfCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://twitter.com/devsoni1999)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer1soni@gmail.com)
