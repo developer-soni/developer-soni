@@ -1,11 +1,12 @@
 # Hello ! 👋
 
 <!-- Introduction --> 
-### I'm a Software Engineer with a passion for solving complex problems and building innovative solutions. Based in San Francisco, California. 🌉 With a strong foundation in computer science (specializing in web development technologies) and a track record of delivering high-quality websites and software on time, I excel at collaborating with cross-functional teams to drive projects from concept to launch.
+### As a Software Engineer, I specialize in solving complex problems and creating innovative solutions. I design and maintain websites and software applications for the world's longest linear particle accelerator, leveraging technologies such as React, Node.js, Large Language Models, and various CMS platforms to produce high-quality products for both the scientific community and the public.
 
-### 👨‍💻 I am always looking to learn and stay up-to-date with the latest industry trends and techniques. 
+### With a strong foundation in computer science, I focus on web and app development, AI automations, LLMs, React.js, and Human-Computer Interaction.
 
-### 🕹️ In my free time, I enjoy customizing my car, photography, skateboarding, cinematic videography, and exploring electrical components.
+### I welcome collaboration opportunities and am eager to contribute to groundbreaking projects while enhancing my skills and expanding my professional network.
+
 
 ## 👨‍💻 Check this out 
 
